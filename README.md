@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @newloveworld
 - 👀 I’m interested in ...coding 
-- 🌱 I’m currently learning ...python 
+- 🌱 I’m currently learning ...python, tabula, power Bi, Excel 
 - 💞️ I’m looking to collaborate on ...any project
 - 📫 How to reach me ...Okekeobinnav@gmail.com/07065139113 
 
